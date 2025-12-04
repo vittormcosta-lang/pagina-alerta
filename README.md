@@ -3,31 +3,6 @@
 <head>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initialscale=1.0">
- <title>Aviso de Segurança</title>
- <style>
- body {
- font-family: Arial, sans-serif;
- background-color: #f4f4f9;
- color: #333;
- text-align: center;
- padding: 50px;
- }
- .container {
- max-width: 600px;
- margin: auto;
- padding: 20px;
- background-color: #fff;
- border-radius: 8px;
- box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
- }
- h1 {
- color: #d9534f;
- }
- p {
- font-size: 16px;
- line-height: 1.6;
- }
- </style>
 </head>
 <body>
  <div class="container">
